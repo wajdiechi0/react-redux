@@ -1,0 +1,18 @@
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.inputBox{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+}
+
+.authInput{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
